@@ -9,6 +9,7 @@ This is June release features
 
 | ID | Work Item Type | Title |
 | -- | -------------- | ----- |
+|[User Story #3](https://dev.azure.com/DevopsKSS/web/wi.aspx?pcguid=2c5c8c29-4346-43f1-b8e2-b2ce54d21c00&id=3)|User Story|Test|
 |[Task #6](https://dev.azure.com/DevopsKSS/web/wi.aspx?pcguid=2c5c8c29-4346-43f1-b8e2-b2ce54d21c00&id=6)|Task|Task 2|
 |[Bug #4](https://dev.azure.com/DevopsKSS/web/wi.aspx?pcguid=2c5c8c29-4346-43f1-b8e2-b2ce54d21c00&id=4)|Bug|Bug|
 |[Bug #4](https://dev.azure.com/DevopsKSS/web/wi.aspx?pcguid=2c5c8c29-4346-43f1-b8e2-b2ce54d21c00&id=4)|Bug|Bug|
