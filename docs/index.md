@@ -3,6 +3,13 @@
 ### Features
 ### Release Notes
 
+#### Jul 2021 Run - version 1.0.0
+This is Jul release features
+
+
+| ID | Work Item Type | Title |
+| -- | -------------- | ----- |
+
 #### Jun 2021 Run - version 1.0.0
 This is June release features
 
